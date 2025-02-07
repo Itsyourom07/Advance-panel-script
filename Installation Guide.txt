@@ -1,0 +1,19 @@
+THANKS FOR Buy Vega SMM Panel Script From Smmpanelscript.store
+
+How to install this script?
+
+1. Upload Script in cpanel
+2.> Create New database
+3.> Update your database details 
+public_html/app/config.php
+4.> Import sql file from phpMyAdmin
+
+Now You Have Succesfully Installed The Scripts
+
+
+For Admin >> 
+Username:- admin
+Password:- admin@2023
+
+
+Website :- https://smmpanelscript.store
